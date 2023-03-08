@@ -1,5 +1,5 @@
 # IOT_Lab1
 First lab here 
 
-![My Image](..\GIT_1\photo.jpg)
+<p align="center"><a href="file.jpg" target="_blank"><img src="file.jpg" width="400"></a></p>
 
