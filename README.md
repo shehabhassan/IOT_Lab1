@@ -2,4 +2,4 @@
 First lab here 
 
 
-![image](GIT_1/file.jpg)
+![image](../GIT_1/file.jpg)
