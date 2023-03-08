@@ -2,4 +2,4 @@
 First lab here 
 
 
-![My Image](file.jpg)
+![image](file.jpg)
