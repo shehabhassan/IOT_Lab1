@@ -1,4 +1,5 @@
 # IOT_Lab1
 First lab here 
-<p align="center"><a href="me.png" target="_blank"><img src="file.jpg" width="400"></a></p>
+
+![My Image](D:\IOT-WORK\COURSES-IOT Technology\ITI\IOT_application_track\GIT_1\file.jpg)
 
